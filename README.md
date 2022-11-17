@@ -9,7 +9,7 @@
 Example of 'To Do List'. 
 
 
-## Procedure:
+## Features:
 
 
 ## Tools Utilised:
