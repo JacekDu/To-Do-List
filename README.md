@@ -18,5 +18,5 @@
 - Javascript,
 - BEM convention,
 - Normalise.css
-- Open Graph 
+- Open Graph Protocol
 - GIF - [ScreenToGif](https://www.screentogif.com/)
