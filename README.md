@@ -6,6 +6,7 @@
 
 ## Description:
 
+Example of 'To Do List'. 
 
 
 ## Procedure:
