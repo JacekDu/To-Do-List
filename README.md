@@ -11,6 +11,9 @@ Example of 'To Do List'.
 
 ## Features:
 
+1. Dynamically built task list.
+2. Ability to mark a completed task by check mark.
+3.
 
 ## Tools Utilised:
 
