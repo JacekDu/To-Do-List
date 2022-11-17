@@ -2,7 +2,7 @@
 
 ## Demo: https://jacekdu.github.io/To-Do-List/
 
-![](images/animation_1.gif)
+![](images/animation.gif)
 
 ## Description:
 
