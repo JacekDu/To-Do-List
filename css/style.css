@@ -10,7 +10,7 @@ html {
 
   body {
     font-family: sans-serif;
-    background-color: hsl(0, 0%, 80%);
+    background-color: hsl(0, 0%, 87%);
     word-break: break-word;
   }
 
@@ -19,8 +19,20 @@ html {
     margin: 0 auto;
     padding: 20px;
   }
+  
+  .section {
+    margin: 10px 0;
+    background: hsl(0, 0%, 100%);
+  }
 
-  .container__item {
+  .section__header {
+    font-size: 20px;
+    padding: 20px;
+    margin: 0;
+    border-bottom: 1px solid hsl(0, 0%, 87%);
+  }
+
+  .section__item {
     background-color: hsl(0, 0%, 100%);
     align-items: center;
     justify-content: start;
@@ -28,9 +40,7 @@ html {
     border-bottom: 1px solid hsl(0, 0%, 80%);
   }
 
-  .h2 {
-    margin: 0px;
-  }
+  
 
  .form {
   display: grid;
