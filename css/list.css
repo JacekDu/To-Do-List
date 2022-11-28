@@ -24,13 +24,14 @@
     padding: 0;
     color: hsl(0, 0%, 100%);
     text-decoration: none;
+    transition: 1s;
   }
   
   .list__button--done {
     background-color: hsl(120, 100%, 25%);
   }
   .list__button--done:hover {
-    background-color: hsl(120, 100%, 30%);
+    background-color: hsl(120, 100%, 35%);
   }
   
   .list__button--done:active {
@@ -42,7 +43,7 @@
   }
   
   .list__button--remove:hover {
-    background-color: hsl(0, 100%, 60%);
+    background-color: hsl(0, 100%, 70%);
   }
   
   .list__button--remove:active {
